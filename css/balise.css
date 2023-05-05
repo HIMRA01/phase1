@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(76, 0, 255);
+}
+section {
+  background-color: rgb(162, 22, 243);
+}
+.sect1 {
+  background-color: rgb(222, 210, 255);
+}
+
+.sect2 {
+  background-color: rgb(243, 11, 127);
+}
+.sect3 {
+  background-color: rgb(162, 243, 11);
+}
+.sect4 {
+  background-color: rgb(11, 216, 243);
+}
+.sect5 {
+  background-color: rgb(204, 11, 243);
+}
+
+.sect6 {
+  background-color: rgb(204, 11, 243);
+}
+.sect7 {
+  background-color: rgb(204, 11, 243);
+}
+.sect8 {
+  background-color: rgb(204, 11, 243);
+}
+footer {
+  background-color: rgb(255, 255, 255);
+}
+
+.vert {
+  background-color: rgb(113, 187, 152);
+}
+#jaune {
+  background-color: rgb(255, 230, 0);
+  height: 111px;
+}
