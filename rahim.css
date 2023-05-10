@@ -1,0 +1,38 @@
+table {
+  border-collapse: collapse; /*par défaut la bordure contient 2 traits, pour que le trait soit unique on utilise la propriété "collapse"*/
+  margin: auto; /* marge exterieur de la balise */
+}
+
+tbody {
+  padding: 200px;
+}
+th,
+td {
+  border: 1px solid #000000; /*dotted = pointillés*/
+  width: 30px;
+  height: 30px;
+}
+
+.blanc {
+  background-color: white;
+}
+
+.noire {
+  background-color: black;
+}
+
+.gris {
+  background-color: gray;
+}
+
+.bleu {
+  background-color: blue;
+}
+
+.vert {
+  background-color: green;
+}
+
+.jaune {
+  background-color: yellow;
+}
