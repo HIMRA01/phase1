@@ -1,0 +1,105 @@
+.contenu {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  border: 1px solid orange;
+}
+
+.vert {
+  background-color: rgb(0, 126, 0);
+  height: 80px;
+  width: 80px;
+ flex-basis: 250px;
+}
+.red {
+  background-color: red;
+  height: 80px;
+  width: 80px;
+}
+
+.marron {
+  background-color: tan;
+  height: 80px;
+  width: 80px;
+}
+
+
+.contenu1 {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items:  center;
+  border: 1px solid orange;
+  flex-direction: row-reverse;
+}
+.vert {
+  background-color: rgb(0, 126, 0);
+  height: 80px;
+  width: 80px;
+ flex-basis: 250px;
+}
+.red {
+  background-color: red;
+  height: 80px;
+  width: 80px;
+}
+
+.marron {
+  background-color: tan;
+  height: 80px;
+  width: 80px;
+}
+.contenu2 {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  border: 1px solid orange;
+  flex-direction: column;
+}
+.vert {
+  background-color: rgb(0, 126, 0);
+  height: 80px;
+  width: 80px;
+ flex-basis: 250px;
+}
+.red {
+  background-color: red;
+  height: 80px;
+  width: 80px;
+}
+
+.marron {
+  background-color: tan;
+  height: 80px;
+  width: 80px;
+}
+
+.contenu3 {
+  height: 200px;
+  width: 100%;
+  display: flex;
+flex-direction: row-reverse;
+  border: 1px solid orange;
+}
+.vert {
+  background-color: rgb(0, 126, 0);
+  height: 80px;
+  width: 80px;
+ flex-basis: 250px;
+}
+.red {
+  background-color: red;
+  height: 80px;
+  width: 80px;
+}
+
+.marron {
+  background-color: tan;
+  height: 80px;
+  width: 80px;
+}
